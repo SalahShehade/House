@@ -8,6 +8,8 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("GitTest");
+        Debug.Log("GitTest2");
+    }
     }
 
     // Update is called once per frame
