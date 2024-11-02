@@ -9,6 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("GitTest");
         Debug.Log("GitTest2");
+        Debug.Log("GitTest2");
     }
     }
 
