@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\House\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{989E213C-089B-AB80-5239-368CA5A5A65C}|Assembly-CSharp.csproj|c:\\users\\user\\house\\assets\\scripts\\task8# assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989E213C-089B-AB80-5239-368CA5A5A65C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task8# assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task8# Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\House\\Assets\\Scripts\\Task8# Assignment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Task8# Assignment.cs",
+              "ToolTip": "C:\\Users\\user\\House\\Assets\\Scripts\\Task8# Assignment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Task8# Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:00:27.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
