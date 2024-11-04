@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\House\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{989E213C-089B-AB80-5239-368CA5A5A65C}|Assembly-CSharp.csproj|c:\\users\\user\\house\\assets\\scripts\\task8# assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{989E213C-089B-AB80-5239-368CA5A5A65C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task8# assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{989E213C-089B-AB80-5239-368CA5A5A65C}|Assembly-CSharp.csproj|c:\\users\\user\\house\\assets\\scripts\\multiplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989E213C-089B-AB80-5239-368CA5A5A65C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\House\\Assets\\Scripts\\Task8# Assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Task8# Assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MultiplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\House\\Assets\\Scripts\\MultiplicationTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MultiplicationTable.cs",
+              "ToolTip": "C:\\Users\\user\\House\\Assets\\Scripts\\MultiplicationTable.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\MultiplicationTable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:01:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task8# Assignment.cs",
               "DocumentMoniker": "C:\\Users\\user\\House\\Assets\\Scripts\\Task8# Assignment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Task8# Assignment.cs",
               "ToolTip": "C:\\Users\\user\\House\\Assets\\Scripts\\Task8# Assignment.cs",
               "RelativeToolTip": "Assets\\Scripts\\Task8# Assignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:00:27.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T10:00:27.366Z"
             }
           ]
         }
